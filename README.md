@@ -68,6 +68,7 @@ We can start our project by running `node server.js`. This script allows us to r
 
 📂  **README.md, screenshots, _config.yml** - README is this document you are looking at right now. Then filename ".md" refers to Markdown-- which will let you format text to display nicer on GitHub. [Read more Here](https://guides.github.com/features/mastering-markdown/). The screenshots folder contains all of the images used in this README. **_config.yml** contains a theme for the README. You can ignore and/or delete all of these.
 
+
 ## Instructions
 
 Throughout the project, you will see lots of comments that look like //⭐️ TO-DO 1 ⭐️. Follow the instructions below to complete each TO-DO in the code. Some TO-DO's will have code for you to paste in, and others will ask you to write your own code.
