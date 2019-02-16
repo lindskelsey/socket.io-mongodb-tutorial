@@ -3,7 +3,11 @@
 ## Project Setup
 
 1. Have a database setup with a collection called "messages"
-2. Clone this repository. In your terminal: `git clone ------name-----`
+
+2. Clone this repository. In your terminal:
+
+`git clone https://github.com/lindskelsey/socket.io-mongodb-tutorial.git`
+
 3. Open the project in Atom
 
 ## What we are building
