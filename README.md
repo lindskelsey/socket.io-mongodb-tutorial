@@ -1,4 +1,4 @@
-# Tutorial for Using Socket.io with MongoDB
+# 💬 Build a Basic Chat App with Socket.io & MongoDB 💬
 
 ## Project Setup
 
