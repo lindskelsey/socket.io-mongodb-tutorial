@@ -66,7 +66,7 @@ We can start our project by running `node server.js`. This script allows us to r
 
 5. **.gitignore** - This is a file where you can list files that you DO NOT want tracked by Git. Sometimes there are files that are unique to your computer that you don't want to share on GitHub. It's also common practice to add files with sensitive information like passwords and secret tokens to this list.
 
-6. **README.md & screenshots** - README is this document you are looking at right now. Then filename ".md" refers to Markdown-- which will let you format text to display nicer on GitHub. [Read more Here](https://guides.github.com/features/mastering-markdown/). The screenshots folder contains all of the images used in this README. If you push this project to your own GitHub Repository, you can delete these.
+6. **README.md, screenshots, _config.yml** - README is this document you are looking at right now. Then filename ".md" refers to Markdown-- which will let you format text to display nicer on GitHub. [Read more Here](https://guides.github.com/features/mastering-markdown/). The screenshots folder contains all of the images used in this README. If you push this project to your own GitHub Repository, you can delete these. **_config.yml** contains a theme for these instructions, you can also delete this if you like.
 
 ## Instructions
 
