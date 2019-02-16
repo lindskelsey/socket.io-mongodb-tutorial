@@ -233,8 +233,11 @@ Here you'll need to replace "element" with the HTML element we are listening to 
 Let's do another check to make sure everything is working!
 
 Run the program `npm start`
+
 Open http://localhost:3000/chat.html
+
 Open the browser's console `option + command + i`
+
 Type a message in the text box and click "Enter", you should see a message logged every time you press enter.
 
 
@@ -311,9 +314,13 @@ Before we write the code for 1. and 2. let's do a quick code check. Here on inpu
 #### 💻 Code Check! 💻
 
 Run the project `npm start`
+
 Open http://localhost:3000/chat.html
+
 Enter a username and message & press Enter
+
 You should see the data object you passed from the client side printed in the terminal
+
 Here are 3 messages I sent:
 
 ![Check2](/screenshots/check2.png)
@@ -342,13 +349,17 @@ We can do things like `chat.find()` and `chat.remove(parameters)` to operate on 
 #### 💻 Code Check! 💻
 
 Run the project `npm start`
+
 Open http://localhost:3000/chat.html
+
 Enter a username and message & press Enter
+
 You should see the data object you passed from the client side printed in the terminal:
 
 ![Check3](/screenshots/check3.png)
 
 Open MongoDB Atlas and open your collection "messages"
+
 You should see any messages you just entered now in the database:
 
 ![Check4](/screenshots/check4.png)
@@ -402,8 +413,11 @@ This will print the messagesArray into your browser console.
 #### 💻 Code Check! 💻
 
 Run the project `npm start`
+
 Open http://localhost:3000/chat.html
+
 Open the browser's console `option + command + i`
+
 You should see a log of all the data that is in your messagesArray:
 
 ![Check5](/screenshots/check5.png)
@@ -423,7 +437,9 @@ Then, inside the for-loop:
 #### 💻 Code Check! 💻
 
 Run the project `npm start`
+
 Open http://localhost:3000/chat.html
+
 You should now see new messages appear in the chat window after you enter them!
 
 🎉 Phew, You're all done! Super impressive work to make it this far 🎉
