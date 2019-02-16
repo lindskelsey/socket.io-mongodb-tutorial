@@ -1,4 +1,4 @@
-# 💬 Build a Basic Chat App with Socket.io & MongoDB 💬
+# 💬 Basic Chat App with Socket.io & MongoDB 💬
 
 ## Project Setup
 
