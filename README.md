@@ -20,7 +20,7 @@ We are building a chat application that takes a user-entered name and message an
 
 Upon opening the project, you should see the following files:
 
-1. **home.html** - This is the homepage that will load when you go to http://localhost:3000. This is the first page that a user would see upon opening the app.
+📂 **home.html** - This is the homepage that will load when you go to http://localhost:3000. This is the first page that a user would see upon opening the app.
 
 In this (and all other html files) we have imported [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
@@ -47,9 +47,9 @@ In this (and all other html files) we have imported [Bootstrap](https://getboots
 
  We won't be coding in this file-- it's very bare bones, so something you can come back to later to style!
 
- 2. **chat.html** - This is the page where we will be coding the HTML and client-side JavaScript for our Socket.io chat.
+ 📂  **chat.html** - This is the page where we will be coding the HTML and client-side JavaScript for our Socket.io chat.
 
- 3. **package.json** - This is a file that contains metadata associated with a project. You will find the title, description, author, and other information here. This is also the file where your dependencies will be listed once you save them into the project.
+ 📂  **package.json** - This is a file that contains metadata associated with a project. You will find the title, description, author, and other information here. This is also the file where your dependencies will be listed once you save them into the project.
 
 Note the code:
 
@@ -62,11 +62,11 @@ Note the code:
 We can start our project by running `node server.js`. This script allows us to run `npm start` in terminal to start the project which executes the command `node server.js`. Either works, but this is a nice way to make it easy to remember how to run your project!
 
 
-4. **server.js** - This is the file where we will write all of our server-side JavaScript
+📂  **server.js** - This is the file where we will write all of our server-side JavaScript
 
-5. **.gitignore** - This is a file where you can list files that you DO NOT want tracked by Git. Sometimes there are files that are unique to your computer that you don't want to share on GitHub. It's also common practice to add files with sensitive information like passwords and secret tokens to this list.
+📂  **.gitignore** - This is a file where you can list files that you DO NOT want tracked by Git. Sometimes there are files that are unique to your computer that you don't want to share on GitHub. It's also common practice to add files with sensitive information like passwords and secret tokens to this list.
 
-6. **README.md, screenshots, _config.yml** - README is this document you are looking at right now. Then filename ".md" refers to Markdown-- which will let you format text to display nicer on GitHub. [Read more Here](https://guides.github.com/features/mastering-markdown/). The screenshots folder contains all of the images used in this README. If you push this project to your own GitHub Repository, you can delete these. **_config.yml** contains a theme for these instructions, you can also delete this if you like.
+📂  **README.md, screenshots, _config.yml** - README is this document you are looking at right now. Then filename ".md" refers to Markdown-- which will let you format text to display nicer on GitHub. [Read more Here](https://guides.github.com/features/mastering-markdown/). The screenshots folder contains all of the images used in this README. **_config.yml** contains a theme for the README. You can ignore and/or delete all of these.
 
 ## Instructions
 
