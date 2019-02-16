@@ -1,0 +1,11 @@
+{
+  "name": "socket.io-mongodb-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial for using MongoDB to persist messages sent via Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lindsay Kelsey",
+  "license": "ISC",
+}
